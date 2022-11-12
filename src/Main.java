@@ -13,7 +13,7 @@ public class Main {
             //bonus = (client/client);
             System.out.println("Не достаточно денег для начисления бонусов:");
         } else {
-           bonus = (client / 100);
+            bonus = (client / 100);
             System.out.println("Бонусы:" + bonus);
         }
     }
